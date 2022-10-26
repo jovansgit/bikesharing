@@ -3,7 +3,12 @@
 ## Overview of the analysis:
 We are looking to explore what is the driving force behind a bike share business in New York City to understand if it is a viable business for Des Moines, Iowa.
 
-I will use pandas to update a csv file with New York Citibike data. The I will use Tableau to create Data Visualizations that are easy to understand. 
+I will use pandas to update a csv file with New York Citibike data. The I will use Tableau to create Data Visualizations that are easy to understand. The goal of the visualizations is to show the following:
+
+* The length of time that bikes are checked out for all riders and genders
+* The number of bike trips for all riders and genders for each hour of each day of the week
+* The number of bike trips for each type of user and gender for each day of the week.
+
 
 [link to dashboard](https://public.tableau.com/app/profile/jovan.simmons/viz/NYCTripDataChallenge/NYCTripDataChallenge "link to dashboard")
 
